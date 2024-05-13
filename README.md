@@ -22,3 +22,5 @@ This is a Flask application for submitting reviews and predicting star ratings a
 - Scikit-learn
 - Matplotlib
 - Seaborn
+## Models
+- There should be a folder named 'models' under 'FlaskAPP', but it was too big to upload. Here is the download link, You need to install it and put it under the FlaskAPP to run the whole application 
