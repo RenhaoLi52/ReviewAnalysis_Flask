@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    User Review
+{% endblock %}
+
+{% block main %}
+<form action="/submit" method="post">
+  <label for="stars">Stars (1-5):</label><br>
+  <input type="number" id="stars" name="stars" min="1" max="5"><br>
+  <label for="text">Text:</label><br>
+  <textarea id="text" name="text"></textarea><br>
+  <input type="submit" value="Submit">
+</form>
+{% endblock %}

@@ -1,0 +1,296 @@
+[
+    {
+        "stars": "4",
+        "text": "This is so delicious",
+        "predicted_tags": [
+            {
+                "tag": "Upscale",
+                "score": 0.10811987519264221
+            },
+            {
+                "tag": "Noisy",
+                "score": 0.08052639663219452
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.07360654324293137
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    },
+    {
+        "stars": "1",
+        "text": "When the restaurant first opened I thought it was the best spot for wings. The staff was polite and the food was great. \\nAfter a few visits the service and the quality of the restaurant has plummeted significantly.  Today's visit the waitress handed paper copied menus and served drinks in plastic cups. There was grace period where we were allowed to view the xerox copied menus and upon coming to a decision the waitress waited until I was ready to order to advise they had run out of fries...FRIES! (Who serves wings without fries). It was decided that today was not the day to consume food at the restaurant. When the waitress was advised the choice was made not to stay at the establishment a bill was brought over for the one sweet tea I consumed...unbelievable!\r\nThe drink wasn't even compensated for being inconvenienced. HORRIBLE!!!",
+        "predicted_tags": [
+            {
+                "tag": "Greasy",
+                "score": 0.21863356232643127
+            },
+            {
+                "tag": "Unseasoned",
+                "score": 0.20427639782428741
+            },
+            {
+                "tag": "Spicy",
+                "score": 0.20115138590335846
+            }
+        ],
+        "prediction": [
+            1
+        ]
+    },
+    {
+        "stars": "2",
+        "text": "I want to like this place since it is in my neighborhood and I like to support local businesses.  I  just came in for a cup of coffee.   I walked in here around 12 noon today and it was packed mostly with Swarthmore College students with books and laptops open studying.   It was pretty loud and pretty dirty as if the floor hadn't been swept or mopped in a while. Nonetheless I walked up to the counter and waited for the other college students behind the counter finish their not work related conversation rather than wait on an old head like me.   Finally the young lady behind the counter asked me if I had ordered yet and I said, \\\"No. I just want to cup of coffee.\\\" She asked me to step aside to where she put it in the computer and I waited there for my cup of coffee only to have a step back 30 seconds later to where I was originally standing (and nobody else was) where she pointed to where to pick it up.   She  couldn't even bother to hand it to me  or place it on the counter in front of me.   I was essentially invisible to the folks behind the counter so as far as I'm concerned I can spend my money elsewhere.",
+        "predicted_tags": [
+            {
+                "tag": "Greasy",
+                "score": 0.20960751175880432
+            },
+            {
+                "tag": "Unseasoned",
+                "score": 0.2075183242559433
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.1996886283159256
+            }
+        ],
+        "prediction": [
+            1
+        ]
+    },
+    {
+        "stars": "5",
+        "text": "Bright and flavorful describes both the interior and the sandwiches.  The owner was a joy to talk to.  His exuberance came through in his sandwiches.  Try the sandwich con chorizo.  He uses the salami like Spanish chorizo to dress the ham cubano.  Salty and chewy, it compliments the crusty bread.  \\nStop in for a very good sandwich and great conversation.",
+        "predicted_tags": [
+            {
+                "tag": "Juicy",
+                "score": 0.2145434021949768
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.20538701117038727
+            },
+            {
+                "tag": "Dry",
+                "score": 0.1972082555294037
+            }
+        ],
+        "prediction": [
+            4
+        ]
+    },
+    {
+        "stars": "5",
+        "text": "One would think that a restaurant in a place like Peddler's Village would probably be subpar since foot traffic alone would keep them in business.  Well, one would be wrong because this place is awesome! I've been here for lunch twice and both experiences were delightful.\\nWe had the same waiter both times and he's super cool and attentive. He makes great recommendations every time and he's always on point. \\nThe last time I went my dining companion and I shared the fried mozzarella. Seems like a safe, uninspired choice. However, their take on this staple is delightful! They use balls of fresh mozzarella and douse it in their marinara which is absolutely delicious. Hands down the best take on fried mozzarella I've ever tasted. \\nTheir menu is quite expansive and has both pasta and meat dishes, but I have gone the pasta route both times. Most recently I ordered the special which was fusilli in a bolognese sauce and it was delicious. On top of the pasta they put a dollop of fresh ricotta which really added to the dish. The portions were substantial too so we both had enough for lunch the next day. \\nDesserts aren't made on premise, but who cares because they were delicious. I got my fave, tiramisu, both times and it's wonderful. Especially when paired with their cappuccino. \\nI love this restaurant and definitely recommend it, especially after a long day of shopping at Peddler's Village.",
+        "predicted_tags": [
+            {
+                "tag": "Microwaved",
+                "score": 0.12241507321596146
+            },
+            {
+                "tag": "Overcooked",
+                "score": 0.11700598895549774
+            },
+            {
+                "tag": "Dry",
+                "score": 0.11517342180013657
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    },
+    {
+        "stars": "4",
+        "text": "Very nice place to relax, food was fresh and service was kind and helpful. Their seating area outside was soo relaxing. As soon as you walk out to the patio you smell all the flowers they have. Seating under shade with a good atmosphere. Definitely will go back.",
+        "predicted_tags": [
+            {
+                "tag": "Greasy",
+                "score": 0.348005086183548
+            },
+            {
+                "tag": "Kid-friendly",
+                "score": 0.33706721663475037
+            },
+            {
+                "tag": "Tasty",
+                "score": 0.31141528487205505
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    },
+    {
+        "stars": "2",
+        "text": "Not great.  Food was too salty.  I won't come back.  Nice set up and ambianc",
+        "predicted_tags": [
+            {
+                "tag": "Flavorless",
+                "score": 0.32348892092704773
+            },
+            {
+                "tag": "Kid-friendly",
+                "score": 0.3229529559612274
+            },
+            {
+                "tag": "Greasy",
+                "score": 0.31575679779052734
+            }
+        ],
+        "prediction": [
+            2
+        ]
+    },
+    {
+        "stars": "5",
+        "text": "Dr. John Heller is a compassionate, skilled, and efficient professional",
+        "predicted_tags": [
+            {
+                "tag": "Kid-friendly",
+                "score": 0.24506336450576782
+            },
+            {
+                "tag": "Juicy",
+                "score": 0.22640103101730347
+            },
+            {
+                "tag": "Rustic",
+                "score": 0.20870789885520935
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    },
+    {
+        "stars": "4",
+        "text": "It was raining on a Sunday morning and we were tired of walking to find a breakfast place. We had stayed at the hotel a few years ago and knew the place is all about quality. That it was! Excellent food, good service and prices that were not crazy, despite the beautiful hotel where it is located",
+        "predicted_tags": [
+            {
+                "tag": "Kid-friendly",
+                "score": 0.35309290885925293
+            },
+            {
+                "tag": "Greasy",
+                "score": 0.335382342338562
+            },
+            {
+                "tag": "Overpriced",
+                "score": 0.2863978147506714
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    },
+    {
+        "stars": "5",
+        "text": "Incredible drinks.   It's all craft service, so expect to wait a bit for the drink, but it's definitely worth it.  The bluebird old fashioned is incredible!",
+        "predicted_tags": [
+            {
+                "tag": "Crispy",
+                "score": 0.1935531497001648
+            },
+            {
+                "tag": "Overhyped",
+                "score": 0.1842070370912552
+            },
+            {
+                "tag": "Tasty",
+                "score": 0.18345294892787933
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    },
+    {
+        "stars": "5",
+        "text": "I love love love crawfish and the boiled crawfish here is great.  Fully stocked with all kinds of beer and boiled seafood.  Line can go out the door on a good day, but goes pretty quickly.  \\n\\nDo not be fooled, this place is not a restaurant, it's more of a market where you get food, drinks, and leave.   Suggest going to the levees to eat the crawfish!  :)",
+        "predicted_tags": [
+            {
+                "tag": "Kid-friendly",
+                "score": 0.38554325699806213
+            },
+            {
+                "tag": "Greasy",
+                "score": 0.37606480717658997
+            },
+            {
+                "tag": "Overpriced",
+                "score": 0.33189254999160767
+            }
+        ],
+        "prediction": [
+            4
+        ]
+    },
+    {
+        "stars": "4",
+        "text": "The Vegan Halal Cart is a food truck that spends most nights of the week operating in the parking lot for Vegan International. The exception is Saturday nights when it sets up in South Tampa.\\n\\nThe stalwarts on the Vegan Halal Cart's menu are a gyro or a gyro box. The gyro is made from seitan and includes lettuce, tomatoes, pickled onion and a homemade vegan tatziki sauce. The box has seitan over rice with a side salad and tatziki sauce. Both come with free french fries and a drink. Lately the cart has also been rolling out a rotating weekly special. Specials have included a NcRib (a seitan version of a McRib), Cheezsteaks (seitan Cheese steak) and Drumstix (seitan wings).\\n\\nYou want dessert? No problem. The Vegan Halal Cart stocks a few options from local vegan dessert artist Oopsy Daisy. \\n\\nOrdering is easy. You can order online for the regular items and in person for specials. \\n\\nDuring my visit, I ordered the NcRib (which came with free fries and a water) and a vegan pack of Twinkies. The NcRib was great. The bread was toasted nicely and held up beneath the saucy seitan (which was made by local seitan artist Uncle Mince). The fries were crispy and salty while not being overly oily. The Twinkies provided just enough sweetness without being overly so.\\n\\nThe best part? This was super affordable in comparison to some vegan restaurants. The sandwich, fries and drink would've only set me back about nine bucks. With Twinkies and tip added in, it came out to fourteen. Not a bad deal at all.\\n\\nI look forward to many more visits to The Vegan Halal Cart in the future. If you are into gyros, seitan and/or vegan food, you might want to pay a visit too!",
+        "predicted_tags": [
+            {
+                "tag": "Juicy",
+                "score": 0.17284151911735535
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.15605279803276062
+            },
+            {
+                "tag": "Overcooked",
+                "score": 0.15266939997673035
+            }
+        ],
+        "prediction": [
+            4
+        ]
+    },
+    {
+        "stars": "4",
+        "text": "The Vegan Halal Cart is a food truck that spends most nights of the week operating in the parking lot for Vegan International. The exception is Saturday nights when it sets up in South Tampa.\\n\\nThe stalwarts on the Vegan Halal Cart's menu are a gyro or a gyro box. The gyro is made from seitan and includes lettuce, tomatoes, pickled onion and a homemade vegan tatziki sauce. The box has seitan over rice with a side salad and tatziki sauce. Both come with free french fries and a drink. Lately the cart has also been rolling out a rotating weekly special. Specials have included a NcRib (a seitan version of a McRib), Cheezsteaks (seitan Cheese steak) and Drumstix (seitan wings).\\n\\nYou want dessert? No problem. The Vegan Halal Cart stocks a few options from local vegan dessert artist Oopsy Daisy. \\n\\nOrdering is easy. You can order online for the regular items and in person for specials. \\n\\nDuring my visit, I ordered the NcRib (which came with free fries and a water) and a vegan pack of Twinkies. The NcRib was great. The bread was toasted nicely and held up beneath the saucy seitan (which was made by local seitan artist Uncle Mince). The fries were crispy and salty while not being overly oily. The Twinkies provided just enough sweetness without being overly so.\\n\\nThe best part? This was super affordable in comparison to some vegan restaurants. The sandwich, fries and drink would've only set me back about nine bucks. With Twinkies and tip added in, it came out to fourteen. Not a bad deal at all.\\n\\nI look forward to many more visits to The Vegan Halal Cart in the future. If you are into gyros, seitan and/or vegan food, you might want to pay a visit too!",
+        "predicted_tags": [
+            {
+                "tag": "Juicy",
+                "score": 0.17284151911735535
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.15605279803276062
+            },
+            {
+                "tag": "Overcooked",
+                "score": 0.15266939997673035
+            }
+        ],
+        "prediction": [
+            4
+        ]
+    },
+    {
+        "stars": "4",
+        "text": "The Vegan Halal Cart is a food truck that spends most nights of the week operating in the parking lot for Vegan International. The exception is Saturday nights when it sets up in South Tampa.\\n\\nThe stalwarts on the Vegan Halal Cart's menu are a gyro or a gyro box. The gyro is made from seitan and includes lettuce, tomatoes, pickled onion and a homemade vegan tatziki sauce. The box has seitan over rice with a side salad and tatziki sauce. Both come with free french fries and a drink. Lately the cart has also been rolling out a rotating weekly special. Specials have included a NcRib (a seitan version of a McRib), Cheezsteaks (seitan Cheese steak) and Drumstix (seitan wings).\\n\\nYou want dessert? No problem. The Vegan Halal Cart stocks a few options from local vegan dessert artist Oopsy Daisy. \\n\\nOrdering is easy. You can order online for the regular items and in person for specials. \\n\\nDuring my visit, I ordered the NcRib (which came with free fries and a water) and a vegan pack of Twinkies. The NcRib was great. The bread was toasted nicely and held up beneath the saucy seitan (which was made by local seitan artist Uncle Mince). The fries were crispy and salty while not being overly oily. The Twinkies provided just enough sweetness without being overly so.\\n\\nThe best part? This was super affordable in comparison to some vegan restaurants. The sandwich, fries and drink would've only set me back about nine bucks. With Twinkies and tip added in, it came out to fourteen. Not a bad deal at all.\\n\\nI look forward to many more visits to The Vegan Halal Cart in the future. If you are into gyros, seitan and/or vegan food, you might want to pay a visit too!",
+        "predicted_tags": [
+            {
+                "tag": "Juicy",
+                "score": 0.17284151911735535
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.15605279803276062
+            },
+            {
+                "tag": "Overcooked",
+                "score": 0.15266939997673035
+            }
+        ],
+        "prediction": [
+            4
+        ]
+    }
+]
