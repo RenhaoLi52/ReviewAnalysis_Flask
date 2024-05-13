@@ -1,4 +1,4 @@
-# 文件名: model.py
+# filename: model.py
 
 import torch
 import torch.nn as nn
@@ -32,7 +32,7 @@ class BERTGRUSentiment(nn.Module):
         output = self.out(hidden)
         return output
 
-# 创建模型实例并加载模型状态字典
+# create the model and load the dict
 def load_model():
     tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
     bert = BertModel.from_pretrained('bert-base-uncased')
@@ -50,7 +50,7 @@ def load_model():
     model.eval()
     return model, tokenizer, device
 
-# 定义预测函数
+# Function for predicting stars
 def predict_stars(texts, model, tokenizer, device, max_len=512):
     predictions = []
     with torch.no_grad():
@@ -69,5 +69,5 @@ def predict_stars(texts, model, tokenizer, device, max_len=512):
             attention_mask = encoding['attention_mask'].to(device)
             outputs = model(input_ids)
             _, predicted = torch.max(outputs, dim=1)
-            predictions.append(predicted.cpu().item() + 1)  # 加1以匹配原始评分（1-5）
+            predictions.append(predicted.cpu().item() + 1)  #plus 1 to match the original star since we defined 0-4 in the model's output layer.
     return predictions
