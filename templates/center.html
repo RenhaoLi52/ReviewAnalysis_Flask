@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Review Center
+{% endblock %}
+
+{% block main %}
+    <table class="table table-striped" style="width:100%">
+        <tr>
+          <th>Stars</th>
+          <th>Comments</th>
+          <th>Tags</th>
+          <th>Predicted Stars</th>
+        </tr>
+      {% for review in reviews %}
+        <tr>
+          <td>{{ review.stars }}</td>
+          <td>{{ review.text }}</td>
+          <td>
+              {# Join the tags from predicted_tags into a comma-separated string #}
+              {{ review.predicted_tags | map(attribute='tag') | join(', ') }}
+          </td>
+          <td>{{ review.prediction }}</td>
+        </tr>
+      {% endfor %}
+    </table>
+{% endblock %}

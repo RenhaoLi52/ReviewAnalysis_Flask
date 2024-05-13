@@ -1,0 +1,24 @@
+[
+    
+    {
+        "stars": "4",
+        "text": "This is so delicious",
+        "predicted_tags": [
+            {
+                "tag": "Upscale",
+                "score": 0.10811987519264221
+            },
+            {
+                "tag": "Noisy",
+                "score": 0.08052639663219452
+            },
+            {
+                "tag": "Microwaved",
+                "score": 0.07360654324293137
+            }
+        ],
+        "prediction": [
+            5
+        ]
+    }
+]
